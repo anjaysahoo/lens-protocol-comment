@@ -13,3 +13,5 @@
 2. Get access token using `Get Access Token` button
 3. Get user profile using `First Get User Profile` button
 4. Create post using `Comment Trial Text` button
+
+NOTE: Add `WEB3STORAGE_TOKEN` in page.svelte file
